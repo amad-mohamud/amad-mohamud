@@ -18,10 +18,13 @@
 </p>
 
 <p align="center">
-  🛡️ A passionate <b>cybersecurity enthusiast</b> with a focus on defensive security and threat detection.<br>
-  On a mission to protect digital assets and keep learning in the ever-evolving cyber world.<br>
-  🚀 Always open to collaboration, learning opportunities, and sharing knowledge with the community.<br>
-  Let's connect and build a safer digital future together! 🤝
+ A cybersecurity learner on the path to becoming a **SOC Analyst**, focused on the **blue team** side of security — detection, monitoring, and incident response. I'm building hands-on skills through structured **SOC analyst training** and the **TryHackMe** learning paths, working through real labs rather than just theory.
+
+- 🛡️ Training as a **SOC Analyst** — log analysis, threat detection & incident response
+- 🧠 Currently working through **TryHackMe** rooms and the SOC Level 1 path
+- 🔍 Learning: SIEM fundamentals, network traffic analysis, and Linux security
+- 🤝 Always open to collaboration and learning with the security community
+- 📍 Based in Mogadishu, Somalia 🇸🇴
 </p>
 
 <p align="center">

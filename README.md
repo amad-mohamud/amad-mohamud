@@ -60,13 +60,12 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amad-mohamud&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amad-mohamud&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" alt="top langs" />
+</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amad-mohamud&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amad-mohamud&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amad-mohamud&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
 </p>
 
 ## 🐍 Contribution Snake

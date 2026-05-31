@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmed Mohamud+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast;Defending+the+Digital+World;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmed+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast;Defending+the+Digital+World;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
 </h1>
 
 <p align="center">

@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
- A cybersecurity learner on the path to becoming a **SOC Analyst**, focused on the **blue team** side of security — detection, monitoring, and incident response. I'm building hands-on skills through structured **SOC analyst training** and the **TryHackMe** learning paths, working through real labs rather than just theory.
+ A cybersecurity learner on the path to becoming a **SOC Analyst**, focused on the **blue team** side of security detection, monitoring, and incident response. I'm building hands-on skills through structured **SOC analyst training** and the **TryHackMe** learning paths, working through real labs rather than just theory.
 
-- 🛡️ Training as a **SOC Analyst** — log analysis, threat detection & incident response
+- 🛡️ Training as a **SOC Analyst**, log analysis, threat detection & incident response
 - 🧠 Currently working through **TryHackMe** rooms and the SOC Level 1 path
 - 🔍 Learning: SIEM fundamentals, network traffic analysis, and Linux security
 - 🤝 Always open to collaboration and learning with the security community

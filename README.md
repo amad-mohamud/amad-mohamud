@@ -1,6 +1,6 @@
 <!--
   SETUP:
-  Your profile repo "amad-mohamud/amad-mohamud" already exists.
+  Your profile repo "ahmed404x/ahmed404x" already exists.
   1. Open it, edit README.md, delete the "Hi there" line, paste this whole file in, commit.
   2. For the SNAKE: add the file .github/workflows/snake.yml (provided separately),
      then go to the repo's Actions tab and run "Generate Snake" once.
@@ -36,8 +36,8 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amadsaam/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/amadsaam"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/ahmed_404x/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ahmed_404x"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
   <a href="https://substack.com/@amadow"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   <a href="mailto:saama2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -78,17 +78,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amad-mohamud&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amad-mohamud&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" alt="top langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed404x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmed404x&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" alt="top langs" />
 </div>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amad-mohamud&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed404x&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amad-mohamud/amad-mohamud/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/ahmed404x/ahmed404x/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
